@@ -1,0 +1,35 @@
+# --- The dataset: not redistributed, download it from the EPIC Lab ------------
+Dataset_Camargo/
+
+# --- Generated locally by the notebook ----------------------------------------
+cache/
+har-dm-cache/
+checkpoints/
+*.parquet
+*.npz
+*.npy
+*.joblib
+*.pkl
+
+# --- Virtual environments (they carry absolute paths) -------------------------
+.venv/
+venv/
+env/
+
+# --- Python -------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# --- Backups and scratch ------------------------------------------------------
+*.bak
+*.bak[0-9]
+tmp/
+
+# --- System / IDE -------------------------------------------------------------
+desktop.ini
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
