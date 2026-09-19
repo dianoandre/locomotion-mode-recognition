@@ -4,7 +4,7 @@ Recognising six locomotion modes — **idle, walk, stair ascent/descent, ramp as
 
 The protocol is subject-independent from the first step. Four of the 22 subjects are held out before anything is plotted and opened exactly once, at the end.
 
-> Data Mining and Machine Learning — M.Sc. in Bionics Engineering, University of Pisa
+> Data Mining & Machine Learning — M.Sc. in Bionics Engineering, University of Pisa
 > Andrea Diano · Riccardo Mambrini
 
 📄 **[Report](deliverables/report.pdf)** · 🎞 **[Slides](deliverables/presentation.pdf)** · 📓 **[Notebook](notebook/LMR_AD_RM.ipynb)** (renders directly on GitHub, outputs included)
